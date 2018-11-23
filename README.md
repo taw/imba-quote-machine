@@ -1,6 +1,6 @@
-# imba-boilerplate
+# imba-quote-machine
 
-Webpack boilerplate for imba and sass, with CSS normalize preloaded.
+Quote Machine in Imba.
 
 ## Install dependencies
 
