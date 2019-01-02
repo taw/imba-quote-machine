@@ -1,6 +1,6 @@
 # imba-quote-machine
 
-Quote Machine in Imba.
+Quote Machine in Imba. [You can see in in action here](https://taw.github.io/imba-quote-machine).
 
 ## Install dependencies
 
